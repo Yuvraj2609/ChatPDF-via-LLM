@@ -3,7 +3,7 @@ and understanding and generating high-quality code in various programming langua
 and 
 **Langchain**( LangChain is an open source orchestration framework for the development of applications using large language models (LLMs). 
 Available in both Python and Javascript-based libraries, LangChain’s tools and APIs simplify the process of building LLM-driven applications like chatbots and virtual agents. ) 
-where we can multiple pdf documents with the help of **FAISS vector emebeddings**.
+where we can chat with multiple pdf documents with the help of **FAISS vector emebeddings**.
 
 SIMPLE STEPS FOR ANY USER TO CREATE AND RUN THIS PROJECT-
 
