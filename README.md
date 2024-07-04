@@ -1,4 +1,4 @@
-An LLM(Large Language Model) application uing **Google gemini pro**( A powerful artificial intelligence (AI) model from Google that can understand text, images, videos, and audio. As a multimodal model, Gemini is described as capable of completing complex tasks in math, physics, and other areas, 
+An LLM(Large Language Model) application using **Google gemini pro**( A powerful artificial intelligence (AI) model from Google that can understand text, images, videos, and audio. As a multimodal model, Gemini is described as capable of completing complex tasks in math, physics, and other areas, 
 and understanding and generating high-quality code in various programming languages. **Gemini Pro** — our best model for scaling across a wide range of tasks. ) 
 and 
 **Langchain**( LangChain is an open source orchestration framework for the development of applications using large language models (LLMs). 
